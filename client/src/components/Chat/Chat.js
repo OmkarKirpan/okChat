@@ -17,7 +17,8 @@ const Chat = ({ location }) => {
   const [users, setUsers] = useState("");
   const [message, setMessage] = useState("");
   const [messages, setMessages] = useState([]);
-  const ENDPOINT = "localhost:5000";
+  // const ENDPOINT = "localhost:5000";
+  const ENDPOINT = "https://okchat-server.herokuapp.com/";
 
   useEffect(() => {
     const { name, room } = queryString.parse(location.search);
