@@ -9,6 +9,7 @@ const Join = () => {
   return (
     <div className="joinOuterContainer">
       <div className="joinInnerContainer">
+        <img src="okchat.svg" alt="logo" />
         <h1 className="heading">Join</h1>
         <div>
           <input
