@@ -1,3 +1,5 @@
+![logo](./client/public/okchat.svg)
+
 # [Realtime Chat Application💬](https://okchat.netlify.com/)
 
 ![dependencies](https://img.shields.io/hackage-deps/v/lens.svg)
