@@ -29,10 +29,10 @@ email, or any other method with the owners of this repository before making a ch
 4. You may merge the Pull Request in once you have the sign-off, or if you
    do not have permission to do that, you may request to merge it for you.
 
-[![alt text][1.1]][1][![alt text][2.1]][2] [mandar][3]
+[![alt text][1.1]][1][![alt text][2.1]][2]
 
 [1.1]: http://i.imgur.com/P3YfQoD.png
 [2.1]: http://i.imgur.com/0o48UoR.png
 [1]: http://www.facebook.com/omkar.kirpan
 [2]: http://www.github.com/omkarkirpan
-[3]: http://www.github.com/mandardharaskar
+
